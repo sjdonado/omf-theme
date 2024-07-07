@@ -13,14 +13,15 @@
 ## Install
 
 ```fish
-$ omf install sjdonado
+$ omf install sjdonado/omf-theme
 ```
 
 
 ## Features
 
-* Lorem ipsum dolor sit amet.
-* Consectetur adipisicing elit.
+* Display short path
+* Git integration with stash indicator
+* Toggle ssh awareness
 
 
 ## Screenshot
