@@ -13,7 +13,7 @@
 ## Install
 
 ```fish
-$ omf install sjdonado/omf-theme
+$ omf install https://github.com/sjdonado/omf-theme
 ```
 
 
@@ -27,7 +27,7 @@ $ omf install sjdonado/omf-theme
 ## Screenshot
 
 <p align="center">
-<img src="{{SCREENSHOT_URL}}">
+<img width="1710" alt="image" src="https://github.com/sjdonado/omf-theme/assets/27580836/4f152bfd-9b9f-4e13-936d-1f04d89257c6">
 </p>
 
 
@@ -37,8 +37,8 @@ $ omf install sjdonado/omf-theme
 
 
 [mit]:            https://opensource.org/licenses/MIT
-[author]:         https://github.com/{{USER}}
-[contributors]:   https://github.com/{{USER}}/theme-sjdonado/graphs/contributors
+[author]:         https://github.com/sjdonado
+[contributors]:   https://github.com/sjdonado/omf-theme/graphs/contributors
 [omf-link]:       https://www.github.com/oh-my-fish/oh-my-fish
 
 [license-badge]:  https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square
