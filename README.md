@@ -22,6 +22,7 @@ $ omf install https://github.com/sjdonado/omf-theme
 * Display short path
 * Git integration with stash indicator
 * Toggle ssh awareness
+* Node.js version support
 
 
 ## Screenshot
